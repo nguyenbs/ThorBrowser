@@ -1,19 +1,48 @@
-# ThorBrowser
-trình duyệt web cho android
+#Web Browser
 
-# Tìm kiếm tức thì
+####Features
+* Bookmarks
 
-Tìm kiếm và điều hướng từ cùng một hộp. Chọn từ các kết quả và đề xuất xuất hiện khi bạn nhập, bao gồm các tìm kiếm gần đây và trang web bạn đã truy cập để bạn có thể truy cập nội dung mình cần trong tích tắc trên thiết bị di động androids. Tìm kiếm từ thanh địa chỉ tùy chỉnh của bạn sẽ được lưu bằng cách đồng bộ hóa trên tất cả các thiết bị của bạn. 
+* History
 
-# Bớt công nhập liệu
+* Multiple Search Engines (Google, Bing, Yahoo, StartPage, DuckDuckGo, etc.)
 
-Bạn mệt mỏi với việc điền đi điền lại cùng một thông tin vào các biểu mẫu trên web? Tính năng Tự động điền cho phép bạn hoàn tất các biểu mẫu chỉ với một lần nhấp. Và tính năng này cũng hoạt động trên mọi thiết bị — do đó bạn có thể bỏ qua tất cả thao tác nhập trên màn hình nhỏ. Bắt đầu sử dụng Tự động điền
+* Incognito Mode
 
-# Bắt đầu từ nơi bạn đã dừng lại
+* Flash Support
 
-ThorBrowser đưa các tab đang mở, dấu trang và tìm kiếm gần đây từ máy tính đến điện thoại hoặc máy tính bảng của bạn và ngược lại. Nhờ đó, bạn có trang web trên tất cả thiết bị của mình. Bạn chỉ cần đăng nhập trên thiết bị khác của mình để bắt đầu đồng bộ hóa.
+* Privacy Aware
 
-# Sử dụng Browser theo cách của bạn
+* HOLOYOLO
 
-Duyệt web theo cách bạn muốn với các chủ đề, ứng dụng và tiện ích của ThorBrowser. Vào thẳng trang web ưa thích của bạn bằng dấu trang và trang khởi động. Sau khi bạn đã thiết lập Chrome, các tùy chỉnh của bạn sẽ được lưu bằng cách đồng bộ hóa trên thiết bị di động của bạn. 
+####Permissions Requested and Explained
 
+* ````INTERNET````: For accessing the web
+
+* ````WRITE_EXTERNAL_STORAGE````: For downloading files from the browser
+
+* ````READ_EXTERNAL_STORAGE````: For downloading files from the browser
+
+* ````ACCESS_FINE_LOCATION````: For sites like Google Maps, it is disabled by default in settings and displays a pop-up asking if a site may use your location when it is enabled
+
+* ````READ_HISTORY_BOOKMARKS````: To synchronize history and bookmarks between the stock browser and Lightning
+
+* ````WRITE_HISTORY_BOOKMARKS````: To synchronize history and bookmarks between the stock browser and Lightning
+
+
+
+Copyright 2013 Anthony Restaino
+
+Web Browser
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
