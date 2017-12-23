@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\java\BrowserActivity\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\java\BrowserActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_27d45749c81d9d16c498e2014e4233075290bb9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\java\BrowserActivity\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="14dbc6e16d655272f3d567d56a2d6992fcb21ab3">
+        <dex dex="F:\java\BrowserActivity\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_375c8303055075f59aa790a57aafc4dbb600d942\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\luchen\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\java\BrowserActivity\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_a1ebbbb7780a300fd4da2c1c6aa3b8348d4598b5.jar" />
+    </item>
+
+</items>
