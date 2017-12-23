@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\release\\drawable\\checkbox.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable\\checkbox.xml"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ginger_animation.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable\\ginger_animation.xml"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\release\\drawable\\splash.jpg",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\release\\drawable\\progress.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bookmark.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable\\bookmark.xml"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ics_animation.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable\\ics_animation.xml"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\release\\drawable\\blueback.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable\\blueback.xml"
+    }
+]

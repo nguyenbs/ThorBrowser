@@ -1,0 +1,4 @@
+#Tue Oct 17 18:52:58 ICT 2017
+base.0=F\:\\java\\BrowserActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_a1ebbbb7780a300fd4da2c1c6aa3b8348d4598b5
+renamed.0=classes.dex
+file.0=F\:\\java\\BrowserActivity\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_a1ebbbb7780a300fd4da2c1c6aa3b8348d4598b5\\classes.dex

@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w900dp-v13\\values-w900dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 91,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\values-w900dp\\refs.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 339,
+                        "endColumn": 91,
+                        "endOffset": 426
+                    }
+                }
+            }
+        ]
+    }
+]

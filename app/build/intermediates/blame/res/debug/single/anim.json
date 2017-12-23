@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\anim\\left.xml"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\anim\\right.xml"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\up.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\anim\\up.xml"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\anim\\down.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\anim\\down.xml"
+    }
+]

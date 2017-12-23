@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\release\\layout\\menu.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\release\\layout\\two_line_autocomplete.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\layout\\two_line_autocomplete.xml"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_splash.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\release\\layout\\settings.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\layout\\settings.xml"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\release\\layout\\advanced_settings.xml",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\layout\\advanced_settings.xml"
+    }
+]

@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:2:1-139:12
+	package
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml
+		INJECTED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:5:5-33
+		INJECTED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml
+		INJECTED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml
+		INJECTED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml
+		INJECTED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml
+		INJECTED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:15:5-93
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:15:22-90
+uses-permission#com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:16:5-94
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:16:22-91
+uses-feature#android.hardware.location.gps
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:19:9-53
+uses-feature#android.hardware.location
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:21:5-23:36
+	android:required
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:23:9-33
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:22:9-49
+uses-feature#android.hardware.touchscreen
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:25:9-52
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:28:5-75
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:28:22-72
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:31:5-71
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:31:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:32:5-71
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:32:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:33:5-72
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:33:22-69
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:34:5-72
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:34:22-69
+application
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:36:5-137:19
+	android:label
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:40:9-41
+	android:hardwareAccelerated
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:38:9-43
+	android:allowBackup
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:37:9-35
+	android:icon
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:39:9-45
+	android:theme
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:41:9-40
+activity#acr.browser.barebones.activities.splashActivity
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:42:9-100:20
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:42:19-81
+intent-filter#android.intent.action.MAIN+android.intent.category.APP_BROWSER+android.intent.category.BROWSABLE+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:43:13-50:29
+action#android.intent.action.MAIN
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.DEFAULT
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:46:27-73
+category#android.intent.category.LAUNCHER
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:47:27-74
+category#android.intent.category.BROWSABLE
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:48:17-78
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:48:27-75
+category#android.intent.category.APP_BROWSER
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:49:17-80
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:49:27-77
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:51:13-61:29
+action#android.intent.action.VIEW
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:52:25-66
+data
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:57:17-47
+	android:scheme
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:57:23-44
+intent-filter#android.intent.action.WEB_SEARCH+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:92:13-99:29
+action#android.intent.action.WEB_SEARCH
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:93:17-75
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:93:25-72
+activity#acr.browser.barebones.activities.IncognitoModeActivity
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:101:9-111:20
+	android:label
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:104:13-45
+	android:launchMode
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:105:13-44
+	android:alwaysRetainTaskState
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:103:13-49
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:102:13-82
+intent-filter#android.intent.action.BROWSER_INCOGNITO+android.intent.category.DEFAULT
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:106:13-110:29
+action#android.intent.action.BROWSER_INCOGNITO
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:107:17-82
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:107:25-79
+activity#acr.browser.barebones.activities.BrowserActivity
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:112:9-118:20
+	android:label
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:115:13-45
+	android:launchMode
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:116:13-44
+	android:alwaysRetainTaskState
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:114:13-49
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:113:13-76
+activity#acr.browser.barebones.activities.SettingsActivity
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:119:9-127:20
+	android:label
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:121:13-45
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:120:13-77
+intent-filter#android.intent.action.SETTINGS+android.intent.category.DEFAULT
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:122:13-126:29
+action#android.intent.action.SETTINGS
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:123:17-73
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:123:25-70
+activity#acr.browser.barebones.activities.AdvancedSettingsActivity
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:128:9-136:20
+	android:label
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:130:13-45
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:129:13-85
+intent-filter#android.intent.action.ADVANCED_SETTINGS+android.intent.category.DEFAULT
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:131:13-135:29
+action#android.intent.action.ADVANCED_SETTINGS
+ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:132:17-82
+	android:name
+		ADDED from F:\java\BrowserActivity\app\src\main\AndroidManifest.xml:132:25-79

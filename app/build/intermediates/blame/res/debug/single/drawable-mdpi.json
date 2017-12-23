@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\exit.png",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable-mdpi\\exit.png"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\loading.png",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable-mdpi\\loading.png"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\forward.png",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable-mdpi\\forward.png"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_refresh.png",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable-mdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\options.png",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable-mdpi\\options.png"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\new_tab.png",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable-mdpi\\new_tab.png"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\back.png",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\webpage.png",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable-mdpi\\webpage.png"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stop.png",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable-mdpi\\stop.png"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\refresh.png",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable-mdpi\\refresh.png"
+    },
+    {
+        "merged": "F:\\java\\BrowserActivity\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\plus.png",
+        "source": "F:\\java\\BrowserActivity\\app\\src\\main\\res\\drawable-mdpi\\plus.png"
+    }
+]
